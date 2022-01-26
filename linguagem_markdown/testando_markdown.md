@@ -14,31 +14,32 @@
 
 Misturar negrito com italico: __*palavra teste*__ ou ***palavra teste***
 
-Lista numerada
+## Lista numerada
 1. teste1
 2. teste2
 3. teste3
 
-Lista demarcada
+## Lista demarcada
 * teste1
 * teste2
 
-Lista de tarefa
+## Lista de tarefa
 - [ ]Tarefa a ser concluida
 - [x]Tarefa concluida
 
-Link: [Ir para o google](https://google.com)
+## Link
+[Ir para o google](https://google.com)
 
 ## Colocando uma imagem
-
 ![logo_github](https://user-images.githubusercontent.com/98165947/151058030-c99928ec-96ec-40f1-a6b6-bfaf4f1b1617.png)
+[original (1).pdf](https://github.com/RamonBosi/Curso_de_Git_e_GitHub/files/7941615/original.1.pdf)
+
 
 ## Criando tabela
 Num | Nome | Nota
 ---|---|---|
 1 | ramon | 8
 2 | bosi | 5
-
 
 ## comando 
 `console.log(Olá,Mundo)`
